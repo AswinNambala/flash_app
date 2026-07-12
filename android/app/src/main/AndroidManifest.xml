@@ -2,6 +2,8 @@
     <!-- torch premission -->
     <uses-permission android:name="android.permission.CAMERA"/>
     <uses-feature android:name="android.hardware.camera.flash" android:required="false"/>
+    <!-- premission for finger print bio metirc from phone -->
+    <uses-permission android:name="android.permission.USE_BIOMETRIC"/>
     <application
         android:label="flash_app"
         android:name="${applicationName}"
