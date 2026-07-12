@@ -1,4 +1,4 @@
-import 'package:flash_app/core/riverpod_operation.dart';
+import 'package:flash_app/core/provider/riverpod_operation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

@@ -1,5 +1,5 @@
 import 'package:flash_app/data/auth/auth_service.dart';
-import 'package:flash_app/data/torch_model.dart';
+import 'package:flash_app/data/models/torch_model.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:torch_light/torch_light.dart';
 

@@ -1,4 +1,4 @@
-import 'package:flash_app/features/flash_page.dart';
+import 'package:flash_app/view/flash_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
