@@ -1,5 +1,6 @@
 import 'package:local_auth/local_auth.dart';
-
+// function for accessing phone security 
+// not only fingerprint but all of it that are active in phone
 class AuthSerivces {
   final auth = LocalAuthentication();
   Future<bool> authenthicationForFingerPrint() async {
